@@ -6,4 +6,6 @@ This programm work on: Windows 10 (maybe also on Windows 7, 8 and 11, but I don'
 How to use this programm?
 -All simple, unarchive folder and run "all.cmd", then restart your discord and keep enjoying comfortable and simple discord ;)
 
+If u want to close script, close the cmd window.
+
 I hope that I was helped u to revive your discord, have a nice day, user!
