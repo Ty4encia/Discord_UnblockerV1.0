@@ -1,5 +1,5 @@
 This script was created by weekow (https://www.youtube.com/@weeknotweak) and used to bypass the blocking of discord in Russia and Turkey
-All right belong to him
+All rights belong to him
 
 This programm work on: Windows 10 (maybe also on Windows 7, 8 and 11, but I don't know exactly xD)
 
